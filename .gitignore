@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+kaggle/
+xgboost/
+*.parquet
